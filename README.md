@@ -7,7 +7,7 @@
 - 💬 Ask me about Android | Kotlin | Java 
 - 📫 How to reach me: https://www.linkedin.com/in/heena-sharma-b2369b38
 
-- ⚡ Language Tools And Framework
-- 
-     Android Kotlin Flutter Java JavaScript Dart HTML CSS Material-Design Firebase SQL Git VS Code Ubuntu Dialogflow
--
+- ⚡ Language Tools And Framework-
+
+   Android Kotlin Flutter Java JavaScript Dart HTML CSS Material-Design Firebase SQL Git VS Code Ubuntu Dialogflow
+
